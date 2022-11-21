@@ -18,7 +18,3 @@
  * _SwiftUI - SwiftUI is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift._
  * _SwiftUIFontIcon - The easiest way to implement font icons in your SwiftUI project._
  * _SwiftUICharts - Swift package for displaying charts effortlessly._
-
-
-
-g
