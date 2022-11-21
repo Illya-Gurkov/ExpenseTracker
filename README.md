@@ -1,6 +1,6 @@
 # ExpenseTracker
 
-## A Simple Expense Tracker App built to demonstrate the use of SwiftUI,Charts. Made with love ❤️.
+### _A Simple Expense Tracker App built to demonstrate the use of SwiftUI,Charts. Made with love ❤️._
 
 ***
 
@@ -10,6 +10,12 @@
 # Dark Mode 🌚
 
 <img width="421" alt="Снимок экрана 2022-11-21 в 14 01 43" src="https://user-images.githubusercontent.com/109282408/203036355-9b9b1a21-2f59-4437-a6e0-92b7861037ce.png">, <img width="421" alt="Снимок экрана 2022-11-21 в 14 01 43" src="https://user-images.githubusercontent.com/109282408/203036402-a65785b0-7f20-4a68-808b-472b29f42049.png">
+***
+# Built With 🛠
+
+### * _SwiftUI - SwiftUI is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift._
+### * _SwiftUIFontIcon - The easiest way to implement font icons in your SwiftUI project._
+### * _SwiftUICharts - Swift package for displaying charts effortlessly._
 
 
 
