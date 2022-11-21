@@ -1,6 +1,6 @@
 # ExpenseTracker
 
- _App for keeping track of income and expenses using the api. A Simple Expense Tracker App built to demonstrate the use of SwiftUI,Charts. Made with love ❤️._
+ _App for keeping track of income and expenses using the api. A Simple Expense Tracker App built the use of SwiftUI,Charts. Made with love ❤️._
 
 ***
 
